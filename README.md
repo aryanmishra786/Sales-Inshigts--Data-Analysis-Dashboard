@@ -1,4 +1,5 @@
-Sales Insights Dashboard
+Sales Insights Dashboard:
+
 This project includes two interactive Tableau dashboards designed to analyze revenue, profit, and sales trends across various markets.
 
 
